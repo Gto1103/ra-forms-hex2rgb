@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0okul8s786lo10kl?svg=true)]()
+[![Build status](https://ci.appveyor.com/api/projects/status/cwg3owo92yl95q97?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-forms-hex2rgb)
 
-[Страница проекта](https://gto1103.github.io/)
+[Страница проекта](https://gto1103.github.io/ra-forms-hex2rgb/)
 
 # Конвертер цветов из HEX в RGB
 
